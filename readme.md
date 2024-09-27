@@ -15,7 +15,7 @@ Desde Cero is a project to practice creating and maintaining a website with Word
 - MySQL versión 8.2 or higher
 - WampServer or equivalent (to run in local environment)
 
-## Instalación
+## Setup
 
 - Step 1: Clone the repository
 - Step 2: Initialize WampServer
